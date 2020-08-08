@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "hello_world_bp",
+    "description": "pack that demonstrates features usable in marketplace",
+    "uuid": "f2744414-2104-4fc1-9de8-290d8418dff2",
+    "version": [
+      0,
+      0,
+      0
+    ],
+    "min_engine_version": [1, 11, 3]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "client_data",
+      "uuid": "80662773-963f-4315-a1cf-0fce194183c8",
+      "version": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "41de9cc5-b0ed-4ad3-bdc8-948b2db5ee9f",
+      "version": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
