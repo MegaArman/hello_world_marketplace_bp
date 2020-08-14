@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10.0",
+    "animation_controllers": {
+        "controller.animation.summon": {
+            "states": {
+                "default": {
+                    "transitions": [
+                        {
+                            "on_summon": "1"
+                        }
+                    ]
+                },
+                "on_summon": {
+                    "on_entry": [
+                        "/say hello world~!"
+                    ]
+                }
+            }
+        }
+    }
+}
